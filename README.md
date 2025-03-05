@@ -10,3 +10,4 @@ Munteanu-Bardan Raul-Octav
 Mocan Adelina
 Bzovii Elena
 Petru Lazar
+Jibotean Denis-Virgil
