@@ -12,4 +12,6 @@ Bzovii Elena
 Petru Lazar
 Jibotean Denis-Virgil
 Lascus Andrea
-Toader Alexandra
+
+
+Figlea Diana
