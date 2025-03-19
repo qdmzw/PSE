@@ -11,5 +11,4 @@ Mocan Adelina
 Bzovii Elena
 Petru Lazar
 Jibotean Denis-Virgil
-
 Figlea Diana
