@@ -1,1 +1,0 @@
-{"resources":[{"@type":"Symfony\\Component\\Config\\Resource\\FileResource","resource":"/home/adonkey/Desktop/PSE/assets/bootstrap.js"},{"@type":"Symfony\\Component\\Config\\Resource\\FileExistenceResource","exists":true,"resource":"/home/adonkey/Desktop/PSE/vendor/symfony/stimulus-bundle/assets/dist/loader.js"}]}
